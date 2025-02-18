@@ -9,6 +9,7 @@ python execute.py
 ```
 
 # Run docker image
+・At first, clone this repository as file and move to the file's directry
 ・pull the docker image from ryouheishimizuhata/ela_for_md:1.0 .
 ```bash:
 docker pull ryouheishimizuhata/ela_for_md:1.0
