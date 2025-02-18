@@ -10,6 +10,11 @@ python execute.py
 
 # Run docker image
 ・At first, clone this repository as file and move to the file's directry
+```bash:
+git clone https://github.com/ryouheishimizuhata/ELA_for_Microbiome_data
+cd ../ELA_for_Microbiome_data
+```
+
 ・pull the docker image from ryouheishimizuhata/ela_for_md:1.0 .
 ```bash:
 docker pull ryouheishimizuhata/ela_for_md:1.0
